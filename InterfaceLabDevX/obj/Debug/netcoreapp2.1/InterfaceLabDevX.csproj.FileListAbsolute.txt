@@ -1,0 +1,11 @@
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\bin\Debug\netcoreapp2.1\InterfaceLabDevX.deps.json
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\bin\Debug\netcoreapp2.1\InterfaceLabDevX.runtimeconfig.json
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\bin\Debug\netcoreapp2.1\InterfaceLabDevX.runtimeconfig.dev.json
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\bin\Debug\netcoreapp2.1\InterfaceLabDevX.dll
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\bin\Debug\netcoreapp2.1\InterfaceLabDevX.pdb
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.AssemblyInfoInputs.cache
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.AssemblyInfo.cs
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.dll
+C:\Users\hphifer\source\repos\InterfaceLabDevX\InterfaceLabDevX\obj\Debug\netcoreapp2.1\InterfaceLabDevX.pdb
